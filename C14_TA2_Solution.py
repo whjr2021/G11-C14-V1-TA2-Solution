@@ -55,7 +55,6 @@ counter = 0
 # 1. Create "player1" object of class Player with properties - "John", carx, cary
 player1 = Player("John", carx, cary)
 
-
 carryOn = True
 t1 = time.time()
 
